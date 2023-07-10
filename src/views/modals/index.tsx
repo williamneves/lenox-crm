@@ -1,0 +1,1 @@
+export { CustomerFormModal } from './mantine/customerModal'
